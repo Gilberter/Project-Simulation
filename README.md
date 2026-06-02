@@ -1,5 +1,5 @@
 # Sim-to-Real Noise Module for Transient Rendering
-
+![Sim-to-Real Noise Poster](poster.png)
 ## Abstract
 
 Transient rendering systems such as **Mitsuba** and **Mitransient** generate physically accurate simulations of light transport over time. However, the resulting transient measurements are often idealized and noise-free, whereas real-world sensors such as **Single-Photon Avalanche Diodes (SPADs)** and **LiDAR** systems are affected by multiple sources of uncertainty and noise.
